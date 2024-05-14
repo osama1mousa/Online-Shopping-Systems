@@ -1,0 +1,32 @@
+===================================================
+User: kmdskmsd
+User Record ID: 10042
+Order Number: 1068
+
+Item		Price/Each		Total
+Electronic		15		60		
+Fast food		5		25		
+Grocery   		7		49		
+HouseHolds		20		40		
+
+Address: kdsjskjskdjdskjddskj
+Payment Method: 
+The local date and time: Mon May 13 13:04:12 2024
+
+
+===================================================
+User: HJHHJH
+User Record ID: 10042
+Order Number: 1068
+
+Item		Price/Each		Total
+Electronic		15		180		
+Fast food		5		10		
+Grocery   		7		21		
+HouseHolds		20		660		
+
+Address: 123456
+Payment Method: Cash On Delivery!
+The local date and time: Mon May 13 14:39:54 2024
+
+
